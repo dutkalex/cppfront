@@ -16,6 +16,7 @@
 *.ipch
 *.sln
 *.txt
+!CMakeLists.txt
 *.db-shm
 *.db-wal
 *.opendb
